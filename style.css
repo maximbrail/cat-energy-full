@@ -26,6 +26,9 @@
     }
 }
 
+.a{
+    border-bottom: 2px solid white;
+}
 .head {
     display: flex;
     gap: 700px;
