@@ -142,13 +142,13 @@
     }
 
     @media (max-width: 820px) {
-        margin-top: 110px;
+        margin-top: 220px;
     }
 }
 
 .title {
     h2 {
-        font-size: 36px;
+        font-size: 30px;
         font-weight: 600;
     }
 
@@ -159,7 +159,7 @@
 
 .box1 {
     background-color: rgb(237, 235, 235);
-    max-width: 570px;
+    max-width: 550px;
     padding: 25px 25px;
 
     p {
@@ -168,7 +168,8 @@
     }
 
     @media (max-width: 420px){
-        padding: 0 0;
+        padding: 10px 10px;
+        
     }
 
 }
